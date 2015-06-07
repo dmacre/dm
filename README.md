@@ -1,1 +1,1 @@
-#dm - blog file fron  9 week web developer bootcamp cohort
+#dm - blog file from web developer bootcamp cohort giving overview of learning steps and websites built
